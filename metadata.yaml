@@ -1,10 +1,16 @@
 _repo: Danger-at-Mormon-Crossing-Sandy-Steele-Adventures-2_50225
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50225-h/images/cover.jpg
 creator:
   author:
     agent_name: Barlow, Roger
     gutenberg_agent_id: '45761'
     url: http://www.gutenberg.org/2009/agents/45761
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50225#Danger-at-Mormon-Crossing-Sandy-Steele-Adventures-2
 gutenberg_issued: '2015-10-15'
 gutenberg_type: Text
 identifiers:
